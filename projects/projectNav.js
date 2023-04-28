@@ -37,10 +37,12 @@ header ='    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-
                       </button>\
                     <div class="collapse" id="collapseExample">\
                       <div class="card card-body">\
-                        <a class="dropdown-item" href="project_websec.html">2022 Fall NTUST Web sercurity</a>\
-                        <a class="dropdown-item" href="project_graduate.html">NTUST Graduate project</a>\
+                        <a class="dropdown-item" href="project_websec.html">NTUST Web sercurity</a>\
+                        <a class="dropdown-item" href="project_software.html">NTUST software engineering</a>\
+                        <a class="dropdown-item" href="project_graduate.html">NTUST 5G-ORAN Xapp Sandbox</a>\
                         <a class="dropdown-item" href="project_edetector.html">iForensics E-detector</a>\
                         <a class="dropdown-item" href="project_III.html">III Ngap fuzzing tool & MITM tool</a>\
+                        <a class="dropdown-item" href="project_AI_final.html">AI Image classification</a>\
                       </div>\
                     </div>\
                 </li>   \
