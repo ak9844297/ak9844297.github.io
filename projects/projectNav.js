@@ -1,4 +1,4 @@
-header ='    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top" id="sideNav">\
+header = '    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top" id="sideNav">\
         <a class="navbar-brand js-scroll-trigger" href="#page-top">\
             <span class="d-block d-lg-none">Jonathan\'s Projects</span>\
         </a>\
@@ -36,14 +36,14 @@ header ='    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-
                         專案列表\
                         <span class="fas fa-angle-down"></span>\
                       </button>\
-                    <div class="collapse" id="collapseExample">\
+                    <div class="collapse show" id="collapseExample" >\
                       <div class="card card-body">\
                         <a class="dropdown-item" href="project_websec.html">NTUST Web sercurity</a>\
                         <a class="dropdown-item" href="project_AI_final.html">NTUST AI Image classification</a>\
                         <a class="dropdown-item" href="project_software.html">NTUST software engineering</a>\
                         <a class="dropdown-item" href="project_graduate.html">NTUST 5G-ORAN Xapp Sandbox</a>\
                         <a class="dropdown-item" href="project_edetector.html">iForensics E-detector</a>\
-                        <a class="dropdown-item" href="project_III.html">III Ngap fuzzing tool & MITM tool</a>\
+                        <a class="dropdown-item" href="project_III.html">III Intership</a>\
                       </div>\
                     </div>\
                 </li>   \
